@@ -1,0 +1,158 @@
+fix camera                                        ---------------- Done
+get sound and camera working                      -----------------Done
+setup communication with arduino    *
+get values from sensors             *
+reverse engineer weighing scale bluetooth  -------------------- done
+reverse engineer bp machine -------------------- Done 
+resize elements to fit page  ----------------- Done
+connect pi to room controls         
+work on assets for the site
+work on audio files and accessibility
+nb
+
+
+
+
+
+
+
+add audio to site -------------Done
+reverse add weighing scale --------Done
+printing -------Done
+add fetching from api  -----------
+get code to run off pi
+fix ssl
+id card ocr (database)
+fix ai interraction
+add medical prescripttions
+
+
+HOME
+--------
+Welcome to the Health Port, your self-service medical evaluation hub.
+Get a comprehensive health check-up in minutes with our state-of-the-art medical hub
+Click "Start Assessment" to begin your treatment
+
+Yɛma wo akwaaba ba Health Port, wo ankasa aduruyɛ mu nhwehwɛmu beae.
+Nya akwahosan ho nhwehwɛmu a edi mũ wɔ simma kakraa bi mu wɔ yɛn aduruyɛ adwumayɛbea a ɛwɔ hɔ nnɛ no so
+Klik "Start Assessment" so na fi w'ayaresa no ase
+
+
+AUTH
+------------
+How to Scan Your NHIS Card
+
+    Place your NHIS card face up in front of the camera
+    Ensure the card is fully visible within the frame
+    Click the "Start" button when ready
+    Hold the card steady during the 3-second countdown
+    Wait for the system to verify your information
+
+
+Sɛnea Wobɛ Scan Wo NHIS Kaad no
+
+    Fa wo NHIS kaad no anim kɔ soro wɔ mfoninitwa afiri no anim
+    Hwɛ sɛ wotumi hu kaad no koraa wɔ frame no mu
+    Klik "Start" button no so bere a woasiesie wo ho no
+    Kura kaad no mu pintinn bere a worekan sikɔne 3 no
+    Twɛn ma nhyehyɛe no nhwɛ sɛ wo nsɛm no yɛ nokware anaa
+
+h&w
+---------------
+How to Measure Height & Weight
+
+    Stand on the marked area on the floor in front of the kiosk
+    Face forward and stand straight with your back against the height sensor
+    Keep your feet flat on the scale
+    Remain still during the measurement process
+    Wait for the confirmation before stepping off
+
+
+Sɛnea Wosusuw Ɔsorokɔ & Mu duru
+
+    Gyina beae a wɔahyɛ no agyirae wɔ fam a ɛwɔ kiosk no anim no
+    Fa w’ani kyerɛ w’anim na gyina hɔ tẽẽ na w’akyi gyina ɔsorokɔ sensor no so
+    Ma wo nan nyɛ petee wɔ nsenia no so
+    Tena hɔ dinn bere a woreyɛ susuw no
+    Twɛn ma wɔasi so dua ansa na woatu anammɔn
+
+temp
+-----------------
+    How to Measure Temperature
+
+    Position your forehead 5-10 cm away from the sensor
+    Keep your head still and look straight ahead
+    Remove any hair, hat, or headband from your forehead
+    Wait for the measurement to complete
+
+
+    Sɛnea Wosusuw Ɔhyew
+
+    Fa wo moma so si baabi a ɛne sensor no ntam kwan yɛ sɛntimita 5-10
+    Ma wo ti ntra hɔ na hwɛ w’anim tẽẽ
+    Yi ti nhwi, kyɛw, anaa ti nhwi biara fi wo moma so
+    Twɛn ma susuw no nwie
+
+spo2
+----------------------
+How to Measure Oxygen Saturation.
+
+    Insert your index finger into the sensor on the left side of the hub, then click Start Measurement.
+    Make sure your finger is clean and free of nail polish.
+    Keep your finger still during the measurement.
+    Wait for the measurement to complete.
+
+
+    Sɛnea Wosusuw Oxygen Saturation.
+
+    Fa wo nsateaa a wode kyerɛ ade no hyɛ sensor a ɛwɔ hub no benkum so no mu, afei klik Start Measurement so.
+    Hwɛ hu sɛ wo nsateaa ho tew na ɛnyɛ nnadewa a wɔde hyɛ wo nsateaa mu.
+    Ma wo nsateaa no ntra hɔ bere a woresusuw no.
+    Twɛn ma susuw no nwie.
+
+h&we
+------------------------
+    How to Measure Heart Rate & Blood Pressure.
+
+    Insert your left arm into the blood pressure cuff.
+    Rest your arm on the armrest with your palm facing up, then click Start Measurement.
+    Remain still and relaxed during the measurement.
+    The cuff will inflate and then slowly deflate.
+    Wait for the measurement to complete.
+
+
+
+    Sɛnea Wosusuw Koma a Ɛbɔ & Mogya Nhyɛso.
+
+    Fa wo nsa benkum hyɛ mogya mmoroso afiri no mu.
+    Fa wo nsa to nsateaa so na wo nsateaa hwɛ soro, afei klik Start Measurement so.
+    Tena hɔ dinn na gye w’ahome bere a woresusuw no.
+    Cuff no bɛbɔ na afei de nkakrankakra abɔ mframa.
+    Twɛn ma susuw no nwie.
+
+vitalsOverview
+---------------------
+    What's Next?
+Now that we've measured your vital signs, we'd like to understand more about any symptoms or pain you may be experiencing.
+On the next screen, you'll be able to indicate areas of pain or discomfort on a body diagram.
+
+
+Dɛn na Ɛdi Akyi?
+Seesei a yɛasusuw wo nsɛnkyerɛnne a ɛho hia no, yɛbɛpɛ sɛ yɛte sɛnkyerɛnne anaa ɛyaw biara a ebia worehyia no ase pii.
+Wɔ screen a edi hɔ no so no, wubetumi akyerɛ mmeae a ɛyaw anaa wo ho nyɛ wo dɛ wɔ nipadua mfonini bi so.
+
+pain
+----------------------
+Select Areas of Pain or Discomfort
+Please tap on the body diagrams to indicate where you are experiencing pain or discomfort. You can select multiple areas on both the front and back views.
+
+Paw Mmeae a Ɛyaw anaa Ɛnyɛ Den
+Yɛsrɛ sɛ pia nipadua ho mfonini ahorow no so na kyerɛ baabi a worete ɛyaw anaa wo ho nyɛ wo dɛ. Wubetumi apaw mmeae pii wɔ anim ne akyi hwɛbea no nyinaa so.
+
+
+assistant
+------------------
+You're doing great so far. Now we will connect you to our ai assistant so we can learn a bit more about the symptoms you have been facing.
+
+
+Woreyɛ kɛse de besi nnɛ. Afei yɛde wo bɛka yɛn ai boafoɔ no ho sɛdeɛ ɛbɛyɛ a yɛbɛtumi asua kakra afa nsɛnkyerɛnneɛ a woahyia no ho.
